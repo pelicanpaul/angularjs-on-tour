@@ -1,0 +1,68 @@
+
+
+
+<div ng-controller="TourDates"
+     class="wrapper-bit">
+    <div class="main-banner">
+        <img ng-src="{{artistimage}}"
+             class="img-responsive"/>
+
+        <h1 class="artist">{{title}}</h1>
+    </div>
+    <ul class="band-schedule">
+        <li ng-repeat="items in schedule |  limitTo:quantity"
+            >
+            <h3 ng-click="showDetails = ! showDetails"><span class="muted smaller">{{items.formatted_datetime}}</span><br/>
+                {{items.title}}
+                <div class="form-warning"
+                      ng-show="items.ticket_type == 'Sold Out'">{{items.ticket_type | uppercase}}</div></h3>
+
+            <div class="band-schedule-info"
+                 ng-show="showDetails">
+
+
+                <div class="row event-detail">
+                    <div class="col-md-3 col-md-offset-3">
+
+                        <ul ng-repeat="artist in items.artists">
+                            <li><img ng-src="{{artist.image_url}}"/></li>
+
+                        </ul>
+
+                    </div>
+
+                    <div class="col-md-3 event-buttons"
+                         style="text-align: left">
+
+
+                        <div class="button-custom">
+                            <a ng-href="https://www.google.com/maps/place/{{items.venue.name}}+{{items.venue.city}}+{{items.venue.region}}"
+                               target="_blank"><i class="fa fa-arrow-circle-o-right"></i>
+                                Map to {{items.venue.name}}</a>
+                        </div>
+
+                        <div class="button-custom">
+
+                            <a ng-href="{{items.facebook_rsvp_url}}"
+                               target="_blank"><i class="fa fa-facebook-square"></i> Facebook RSVP</a>
+                        </div>
+                        <div class="button-custom">
+                            <a ng-href="{{items.ticket_url}}"
+                               target="_blank"><i class="fa fa-shopping-cart"></i> Buy Tickets</a>
+
+
+                        </div>
+
+                    </div>
+                </div>
+
+            </div>
+
+        </li>
+
+
+    </ul>
+
+
+</div>
+

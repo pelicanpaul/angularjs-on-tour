@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html lang="en" ng-app="ontourApp" class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html lang="en" ng-app="ontourApp" class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html lang="en" ng-app="ontourApp" class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html lang="en" ng-app="ontourApp" class="no-js"> <!--<![endif]-->
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title ng-bind="title"></title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+
+    <link rel="stylesheet" href="styles/main.css"/>
+
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+
+    <script src="../bower_components/html5-boilerplate/js/vendor/modernizr-2.6.2.min.js"></script>
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,700,300,300italic' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Abril+Fatface' rel='stylesheet' type='text/css'>
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+</head>
+<body>
+
+<!-- Fixed navbar -->
+<div class="container">
+    <div class="navbar navbar-inverse" role="navigation" ng-controller="GlobalNav">
+
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="#/home">ON-TOUR PRODUCTIONS</a>
+        </div>
+        <div class="navbar-collapse collapse">
+            <ul class="nav navbar-nav">
+
+                <li class="dropdown">
+                    <a class="dropdown-toggle" data-toggle="dropdown" >FEATURED ARTISTS TOUR DATES <span class="caret"></span></a>
+                    <ul class="dropdown-menu" role="menu" >
+                        <li ng-repeat="items in artists"><a href="#/tour-dates?artist={{items.artistName | encode}}">{{items.artistName }}</a></li>
+
+                    </ul>
+                </li>
+                <li><a href="#/contact">CONTACT US</a></li>
+            </ul>
+        </div><!--/.nav-collapse -->
+    </div>
+</div>
+
+<div class="container mainstage">
+    <!--[if lt IE 7]>
+    <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience. </p>
+    <![endif]-->
+
+    <div ng-view></div>
+</div>
+
+<div class="container" ng-controller="Footer">
+    <div class="row">
+        <div class="col-md-8">
+            <div class="footer">
+                &copy; 2014 - Paul Lyons<br /> Demonstration of a Single Page Application using AngularJS, Bootstrap 3.0 and RESTful Services using the Bands In Town API.
+
+
+
+            </div>
+        </div>
+        <div class="col-md-4">
+            <h3 class="social-header">follow us asdf</h3>
+            <div class="social" ng-click="justCall()">
+                <i class="fa fa-twitter-square fa-3"></i>
+                <i class="fa fa-facebook-square fa-3"></i>
+                <i class="fa fa-instagram fa-3"></i>
+                <i class="fa fa-pinterest-square fa-3"></i>
+            </div>
+        </div>
+
+
+    </div>
+
+
+</div>
+
+
+
+<!-- In production use:
+<script src="//ajax.googleapis.com/ajax/libs/angularjs/x.x.x/angular.min.js"></script>
+-->
+<script src="../bower_components/angular/angular.js"></script>
+<script src="../bower_components/angular-route/angular-route.js"></script>
+<script src="../bower_components/angular-resource/angular-resource.js"></script>
+<script src="scripts/app.js"></script>
+<script src="scripts/services.js"></script>
+<script src="scripts/controllers.js"></script>
+<script src="scripts/filters.js"></script>
+<script src="scripts/directives.js"></script>
+</body>
+</html>

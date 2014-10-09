@@ -1,0 +1,1317 @@
+JSON_CALLBACK([
+{
+"formatted_datetime":"Saturday, August 30, 2014 at 7:00PM",
+"artists":[
+{
+"image_url":"http://www.bandsintown.com/LakeStreetDive/photo/medium.jpg",
+"facebook_tour_dates_url":"http://bnds.in/THMefY",
+"name":"Lake Street Dive",
+"mbid":"584758b2-306b-4aea-8694-3876943c9968",
+"thumb_url":"http://www.bandsintown.com/LakeStreetDive/photo/small.jpg"
+}
+],
+"facebook_rsvp_url":"http://www.bandsintown.com/event/8372655?app_id=pelicanpaul\u0026artist=Lake+Street+Dive\u0026came_from=67",
+"id":"8372655",
+"datetime":"2014-08-30T19:00:00",
+"description":null,
+"ticket_type":"Tickets",
+"ticket_url":"http://www.bandsintown.com/event/8372655/buy_tickets?app_id=pelicanpaul\u0026artist=Lake+Street+Dive",
+"on_sale_datetime":"2014-07-03T12:00:00",
+"title":"Lake Street Dive @ The Danforth Music Hall in Toronto, Canada",
+"ticket_status":"available",
+"formatted_location":"Toronto, Canada",
+"venue":{
+"region":"ON",
+"city":"Toronto",
+"name":"The Danforth Music Hall",
+"latitude":43.6764492,
+"longitude":-79.3571014,
+"country":"Canada"
+}
+},
+
+
+
+
+{
+"formatted_datetime":"Sunday, August 31, 2014 at 7:00PM",
+"artists":[
+{
+"image_url":"http://www.bandsintown.com/LakeStreetDive/photo/medium.jpg",
+"facebook_tour_dates_url":"http://bnds.in/THMefY",
+"name":"Lake Street Dive",
+"mbid":"584758b2-306b-4aea-8694-3876943c9968",
+"thumb_url":"http://www.bandsintown.com/LakeStreetDive/photo/small.jpg"
+}
+],
+"facebook_rsvp_url":"http://www.bandsintown.com/event/7910000?app_id=pelicanpaul\u0026artist=Lake+Street+Dive\u0026came_from=67",
+"id":"7910000",
+"datetime":"2014-08-31T19:00:00",
+"description":null,
+"ticket_type":"Tickets",
+"ticket_url":"http://www.bandsintown.com/event/7910000/buy_tickets?app_id=pelicanpaul\u0026artist=Lake+Street+Dive",
+"on_sale_datetime":null,
+"title":"Lake Street Dive @ Campfire Festival in Lakewood, PA",
+"ticket_status":"available",
+"formatted_location":"Lakewood, PA",
+"venue":{
+"region":"PA",
+"city":"Lakewood",
+"name":"Campfire Festival",
+"latitude":41.8519444,
+"longitude":-75.3816667,
+"country":"United States"
+}
+},
+{
+"formatted_datetime":"Sunday, September 7, 2014 at 12:00PM",
+"artists":[
+{
+"image_url":"http://www.bandsintown.com/LakeStreetDive/photo/medium.jpg",
+"facebook_tour_dates_url":"http://bnds.in/THMefY",
+"name":"Lake Street Dive",
+"mbid":"584758b2-306b-4aea-8694-3876943c9968",
+"thumb_url":"http://www.bandsintown.com/LakeStreetDive/photo/small.jpg"
+}
+],
+"facebook_rsvp_url":"http://www.bandsintown.com/event/8081489?app_id=pelicanpaul\u0026artist=Lake+Street+Dive\u0026came_from=67",
+"id":"8081489",
+"datetime":"2014-09-07T12:00:00",
+"description":null,
+"ticket_type":"Tickets",
+"ticket_url":"http://www.bandsintown.com/event/8081489/buy_tickets?app_id=pelicanpaul\u0026artist=Lake+Street+Dive",
+"on_sale_datetime":null,
+"title":"Lake Street Dive @ Boston Calling - City Hall Plaza in Boston, MA",
+"ticket_status":"available",
+"formatted_location":"Boston, MA",
+"venue":{
+"region":"MA",
+"city":"Boston",
+"name":"Boston Calling - City Hall Plaza",
+"latitude":42.3583333,
+"longitude":-71.0602778,
+"country":"United States"
+}
+},
+{
+"formatted_datetime":"Saturday, September 13, 2014 at 7:00PM",
+"artists":[
+{
+"image_url":"http://www.bandsintown.com/LakeStreetDive/photo/medium.jpg",
+"facebook_tour_dates_url":"http://bnds.in/THMefY",
+"name":"Lake Street Dive",
+"mbid":"584758b2-306b-4aea-8694-3876943c9968",
+"thumb_url":"http://www.bandsintown.com/LakeStreetDive/photo/small.jpg"
+}
+],
+"facebook_rsvp_url":"http://www.bandsintown.com/event/8041047?app_id=pelicanpaul\u0026artist=Lake+Street+Dive\u0026came_from=67",
+"id":"8041047",
+"datetime":"2014-09-13T19:00:00",
+"description":null,
+"ticket_type":"Tickets",
+"ticket_url":"http://www.bandsintown.com/event/8041047/buy_tickets?app_id=pelicanpaul\u0026artist=Lake+Street+Dive",
+"on_sale_datetime":null,
+"title":"Lake Street Dive @ Grand Point North in Burlington, VT",
+"ticket_status":"available",
+"formatted_location":"Burlington, VT",
+"venue":{
+"region":"VT",
+"city":"Burlington",
+"name":"Grand Point North",
+"latitude":44.4758333,
+"longitude":-73.2125,
+"country":"United States"
+}
+},
+{
+"formatted_datetime":"Sunday, September 14, 2014 at 8:00PM",
+"artists":[
+{
+"image_url":"http://www.bandsintown.com/LakeStreetDive/photo/medium.jpg",
+"facebook_tour_dates_url":"http://bnds.in/THMefY",
+"name":"Lake Street Dive",
+"mbid":"584758b2-306b-4aea-8694-3876943c9968",
+"thumb_url":"http://www.bandsintown.com/LakeStreetDive/photo/small.jpg"
+}
+],
+"facebook_rsvp_url":"http://www.bandsintown.com/event/8482454?app_id=pelicanpaul\u0026artist=Lake+Street+Dive\u0026came_from=67",
+"id":"8482454",
+"datetime":"2014-09-14T20:00:00",
+"description":null,
+"ticket_type":"Tickets",
+"ticket_url":"http://www.bandsintown.com/event/8482454/buy_tickets?app_id=pelicanpaul\u0026artist=Lake+Street+Dive",
+"on_sale_datetime":null,
+"title":"Lake Street Dive @ State Theater in Ithaca, NY",
+"ticket_status":"available",
+"formatted_location":"Ithaca, NY",
+"venue":{
+"region":"NY",
+"city":"Ithaca",
+"name":"State Theater",
+"latitude":42.439541,
+"longitude":-76.499254,
+"country":"United States"
+}
+},
+{
+"formatted_datetime":"Monday, September 15, 2014 at 7:30PM",
+"artists":[
+{
+"image_url":"http://www.bandsintown.com/LakeStreetDive/photo/medium.jpg",
+"facebook_tour_dates_url":"http://bnds.in/THMefY",
+"name":"Lake Street Dive",
+"mbid":"584758b2-306b-4aea-8694-3876943c9968",
+"thumb_url":"http://www.bandsintown.com/LakeStreetDive/photo/small.jpg"
+}
+],
+"facebook_rsvp_url":"http://www.bandsintown.com/event/8450162?app_id=pelicanpaul\u0026artist=Lake+Street+Dive\u0026came_from=67",
+"id":"8450162",
+"datetime":"2014-09-15T19:30:00",
+"description":null,
+"ticket_type":"Tickets",
+"ticket_url":"http://www.bandsintown.com/event/8450162/buy_tickets?app_id=pelicanpaul\u0026artist=Lake+Street+Dive",
+"on_sale_datetime":null,
+"title":"Lake Street Dive @ The Bell House in Brooklyn, NY",
+"ticket_status":"available",
+"formatted_location":"Brooklyn, NY",
+"venue":{
+"region":"NY",
+"city":"Brooklyn",
+"name":"The Bell House",
+"latitude":40.673161,
+"longitude":-73.990726,
+"country":"United States"
+}
+},
+{
+"formatted_datetime":"Tuesday, September 16, 2014 at 8:30PM",
+"artists":[
+{
+"image_url":"http://www.bandsintown.com/LakeStreetDive/photo/medium.jpg",
+"facebook_tour_dates_url":"http://bnds.in/THMefY",
+"name":"Lake Street Dive",
+"mbid":"584758b2-306b-4aea-8694-3876943c9968",
+"thumb_url":"http://www.bandsintown.com/LakeStreetDive/photo/small.jpg"
+}
+],
+"facebook_rsvp_url":"http://www.bandsintown.com/event/8168135?app_id=pelicanpaul\u0026artist=Lake+Street+Dive\u0026came_from=67",
+"id":"8168135",
+"datetime":"2014-09-16T20:30:00",
+"description":null,
+"ticket_type":"Tickets",
+"ticket_url":"http://www.bandsintown.com/event/8168135/buy_tickets?app_id=pelicanpaul\u0026artist=Lake+Street+Dive",
+"on_sale_datetime":"2014-05-23T10:00:00",
+"title":"Lake Street Dive @ Beachland Ballroom in Cleveland, OH",
+"ticket_status":"available",
+"formatted_location":"Cleveland, OH",
+"venue":{
+"region":"OH",
+"city":"Cleveland",
+"name":"Beachland Ballroom",
+"latitude":41.571503,
+"longitude":-81.570351,
+"country":"United States"
+}
+},
+{
+"formatted_datetime":"Thursday, September 18, 2014 at 8:00PM",
+"artists":[
+{
+"image_url":"http://www.bandsintown.com/LakeStreetDive/photo/medium.jpg",
+"facebook_tour_dates_url":"http://bnds.in/THMefY",
+"name":"Lake Street Dive",
+"mbid":"584758b2-306b-4aea-8694-3876943c9968",
+"thumb_url":"http://www.bandsintown.com/LakeStreetDive/photo/small.jpg"
+}
+],
+"facebook_rsvp_url":"http://www.bandsintown.com/event/8409402?app_id=pelicanpaul\u0026artist=Lake+Street+Dive\u0026came_from=67",
+"id":"8409402",
+"datetime":"2014-09-18T20:00:00",
+"description":null,
+"ticket_type":"Tickets",
+"ticket_url":"http://www.bandsintown.com/event/8409402/buy_tickets?app_id=pelicanpaul\u0026artist=Lake+Street+Dive",
+"on_sale_datetime":"2014-08-15T10:00:00",
+"title":"Lake Street Dive @ Mercy Lounge in Nashville, TN",
+"ticket_status":"available",
+"formatted_location":"Nashville, TN",
+"venue":{
+"region":"TN",
+"city":"Nashville",
+"name":"Mercy Lounge",
+"latitude":36.152824,
+"longitude":-86.780319,
+"country":"United States"
+}
+},
+{
+"formatted_datetime":"Saturday, September 20, 2014 at 6:30PM",
+"artists":[
+{
+"image_url":"http://www.bandsintown.com/LakeStreetDive/photo/medium.jpg",
+"facebook_tour_dates_url":"http://bnds.in/THMefY",
+"name":"Lake Street Dive",
+"mbid":"584758b2-306b-4aea-8694-3876943c9968",
+"thumb_url":"http://www.bandsintown.com/LakeStreetDive/photo/small.jpg"
+}
+],
+"facebook_rsvp_url":"http://www.bandsintown.com/event/7756421?app_id=pelicanpaul\u0026artist=Lake+Street+Dive\u0026came_from=67",
+"id":"7756421",
+"datetime":"2014-09-20T18:30:00",
+"description":null,
+"ticket_type":"Tickets",
+"ticket_url":"http://www.bandsintown.com/event/7756421/buy_tickets?app_id=pelicanpaul\u0026artist=Lake+Street+Dive",
+"on_sale_datetime":"2009-09-12T20:00:00",
+"title":"Lake Street Dive @ Red Rocks Amphitheatre in Morrison, CO",
+"ticket_status":"available",
+"formatted_location":"Morrison, CO",
+"venue":{
+"region":"CO",
+"city":"Morrison",
+"name":"Red Rocks Amphitheatre",
+"latitude":39.67281,
+"longitude":-105.201709,
+"country":"United States"
+}
+},
+{
+"formatted_datetime":"Sunday, September 21, 2014 at 7:00PM",
+"artists":[
+{
+"image_url":"http://www.bandsintown.com/LakeStreetDive/photo/medium.jpg",
+"facebook_tour_dates_url":"http://bnds.in/THMefY",
+"name":"Lake Street Dive",
+"mbid":"584758b2-306b-4aea-8694-3876943c9968",
+"thumb_url":"http://www.bandsintown.com/LakeStreetDive/photo/small.jpg"
+}
+],
+"facebook_rsvp_url":"http://www.bandsintown.com/event/8203728?app_id=pelicanpaul\u0026artist=Lake+Street+Dive\u0026came_from=67",
+"id":"8203728",
+"datetime":"2014-09-21T19:00:00",
+"description":null,
+"ticket_type":"Tickets",
+"ticket_url":"http://www.bandsintown.com/event/8203728/buy_tickets?app_id=pelicanpaul\u0026artist=Lake+Street+Dive",
+"on_sale_datetime":null,
+"title":"Lake Street Dive @ The Sunday Roadhouse at Slowdown in Omaha, NE",
+"ticket_status":"available",
+"formatted_location":"Omaha, NE",
+"venue":{
+"region":"NE",
+"city":"Omaha",
+"name":"The Sunday Roadhouse at Slowdown",
+"latitude":41.2586111,
+"longitude":-95.9375,
+"country":"United States"
+}
+},
+{
+"formatted_datetime":"Tuesday, September 23, 2014 at 7:00PM",
+"artists":[
+{
+"image_url":"http://www.bandsintown.com/LakeStreetDive/photo/medium.jpg",
+"facebook_tour_dates_url":"http://bnds.in/THMefY",
+"name":"Lake Street Dive",
+"mbid":"584758b2-306b-4aea-8694-3876943c9968",
+"thumb_url":"http://www.bandsintown.com/LakeStreetDive/photo/small.jpg"
+}
+],
+"facebook_rsvp_url":"http://www.bandsintown.com/event/8618180?app_id=pelicanpaul\u0026artist=Lake+Street+Dive\u0026came_from=67",
+"id":"8618180",
+"datetime":"2014-09-23T19:00:00",
+"description":"All Ages. Doors open one hour prior to show.  All tickets are general admission.   Please visit www.majesticmadison.com for more information.",
+"ticket_type":"Tickets",
+"ticket_url":"http://www.bandsintown.com/event/8618180/buy_tickets?app_id=pelicanpaul\u0026artist=Lake+Street+Dive",
+"on_sale_datetime":"2014-06-13T13:00:00",
+"title":"Lake Street Dive @ Majestic Theatre in Madison, WI",
+"ticket_status":"available",
+"formatted_location":"Madison, WI",
+"venue":{
+"region":"WI",
+"city":"Madison",
+"name":"Majestic Theatre",
+"latitude":43.074531,
+"longitude":-89.381617,
+"country":"United States"
+}
+},
+{
+"formatted_datetime":"Thursday, September 25, 2014 at 7:00PM",
+"artists":[
+{
+"image_url":"http://www.bandsintown.com/LakeStreetDive/photo/medium.jpg",
+"facebook_tour_dates_url":"http://bnds.in/THMefY",
+"name":"Lake Street Dive",
+"mbid":"584758b2-306b-4aea-8694-3876943c9968",
+"thumb_url":"http://www.bandsintown.com/LakeStreetDive/photo/small.jpg"
+}
+],
+"facebook_rsvp_url":"http://www.bandsintown.com/event/7931352?app_id=pelicanpaul\u0026artist=Lake+Street+Dive\u0026came_from=67",
+"id":"7931352",
+"datetime":"2014-09-25T19:00:00",
+"description":null,
+"ticket_type":"Sold Out",
+"ticket_url":"http://www.bandsintown.com/event/7931352/buy_tickets?app_id=pelicanpaul\u0026artist=Lake+Street+Dive",
+"on_sale_datetime":"2014-04-05T11:00:00",
+"title":"Lake Street Dive @ Thalia Hall in Chicago, IL",
+"ticket_status":"available",
+"formatted_location":"Chicago, IL",
+"venue":{
+"region":"IL",
+"city":"Chicago",
+"name":"Thalia Hall",
+"latitude":41.8578894,
+"longitude":-87.657417,
+"country":"United States"
+}
+},
+{
+"formatted_datetime":"Friday, September 26, 2014 at 7:00PM",
+"artists":[
+{
+"image_url":"http://www.bandsintown.com/LakeStreetDive/photo/medium.jpg",
+"facebook_tour_dates_url":"http://bnds.in/THMefY",
+"name":"Lake Street Dive",
+"mbid":"584758b2-306b-4aea-8694-3876943c9968",
+"thumb_url":"http://www.bandsintown.com/LakeStreetDive/photo/small.jpg"
+}
+],
+"facebook_rsvp_url":"http://www.bandsintown.com/event/8307392?app_id=pelicanpaul\u0026artist=Lake+Street+Dive\u0026came_from=67",
+"id":"8307392",
+"datetime":"2014-09-26T19:00:00",
+"description":null,
+"ticket_type":"Tickets",
+"ticket_url":"http://www.bandsintown.com/event/8307392/buy_tickets?app_id=pelicanpaul\u0026artist=Lake+Street+Dive",
+"on_sale_datetime":"2014-06-20T10:00:00",
+"title":"Lake Street Dive @ Thalia Hall in Chicago, IL",
+"ticket_status":"available",
+"formatted_location":"Chicago, IL",
+"venue":{
+"region":"IL",
+"city":"Chicago",
+"name":"Thalia Hall",
+"latitude":41.8578894,
+"longitude":-87.657417,
+"country":"United States"
+}
+},
+{
+"formatted_datetime":"Saturday, September 27, 2014 at 4:00PM",
+"artists":[
+{
+"image_url":"http://www.bandsintown.com/LakeStreetDive/photo/medium.jpg",
+"facebook_tour_dates_url":"http://bnds.in/THMefY",
+"name":"Lake Street Dive",
+"mbid":"584758b2-306b-4aea-8694-3876943c9968",
+"thumb_url":"http://www.bandsintown.com/LakeStreetDive/photo/small.jpg"
+}
+],
+"facebook_rsvp_url":"http://www.bandsintown.com/event/7951590?app_id=pelicanpaul\u0026artist=Lake+Street+Dive\u0026came_from=67",
+"id":"7951590",
+"datetime":"2014-09-27T16:00:00",
+"description":null,
+"ticket_type":"Tickets",
+"ticket_url":"http://www.bandsintown.com/event/7951590/buy_tickets?app_id=pelicanpaul\u0026artist=Lake+Street+Dive",
+"on_sale_datetime":null,
+"title":"Lake Street Dive @ Roots n Blues N BBQ Festival in Columbia, MO",
+"ticket_status":"available",
+"formatted_location":"Columbia, MO",
+"venue":{
+"region":"MO",
+"city":"Columbia",
+"name":"Roots n Blues N BBQ Festival",
+"latitude":38.941855,
+"longitude":-92.282713,
+"country":"United States"
+}
+},
+{
+"formatted_datetime":"Monday, September 29, 2014 at 7:00PM",
+"artists":[
+{
+"image_url":"http://www.bandsintown.com/LakeStreetDive/photo/medium.jpg",
+"facebook_tour_dates_url":"http://bnds.in/THMefY",
+"name":"Lake Street Dive",
+"mbid":"584758b2-306b-4aea-8694-3876943c9968",
+"thumb_url":"http://www.bandsintown.com/LakeStreetDive/photo/small.jpg"
+},
+{
+"image_url":"http://www.bandsintown.com/Lucius/photo/medium.jpg",
+"facebook_tour_dates_url":"http://bnds.in/lo7NaO",
+"name":"Lucius",
+"mbid":"9e233b0e-9e9d-4865-9d66-18fbcaf02bd8",
+"thumb_url":"http://www.bandsintown.com/Lucius/photo/small.jpg"
+}
+],
+"facebook_rsvp_url":"http://www.bandsintown.com/event/8264044?app_id=pelicanpaul\u0026artist=Lake+Street+Dive\u0026came_from=67",
+"id":"8264044",
+"datetime":"2014-09-29T19:00:00",
+"description":null,
+"ticket_type":"Tickets",
+"ticket_url":"http://www.bandsintown.com/event/8264044/buy_tickets?app_id=pelicanpaul\u0026artist=Lake+Street+Dive",
+"on_sale_datetime":"2014-06-17T16:53:39",
+"title":"Lake Street Dive @ Minglewood Hall in Memphis, TN",
+"ticket_status":"available",
+"formatted_location":"Memphis, TN",
+"venue":{
+"region":"TN",
+"city":"Memphis",
+"name":"Minglewood Hall",
+"latitude":35.138137,
+"longitude":-90.009606,
+"country":"United States"
+}
+},
+{
+"formatted_datetime":"Tuesday, September 30, 2014 at 7:00PM",
+"artists":[
+{
+"image_url":"http://www.bandsintown.com/LakeStreetDive/photo/medium.jpg",
+"facebook_tour_dates_url":"http://bnds.in/THMefY",
+"name":"Lake Street Dive",
+"mbid":"584758b2-306b-4aea-8694-3876943c9968",
+"thumb_url":"http://www.bandsintown.com/LakeStreetDive/photo/small.jpg"
+},
+{
+"image_url":"http://www.bandsintown.com/Lucius/photo/medium.jpg",
+"facebook_tour_dates_url":"http://bnds.in/lo7NaO",
+"name":"Lucius",
+"mbid":"9e233b0e-9e9d-4865-9d66-18fbcaf02bd8",
+"thumb_url":"http://www.bandsintown.com/Lucius/photo/small.jpg"
+}
+],
+"facebook_rsvp_url":"http://www.bandsintown.com/event/8264049?app_id=pelicanpaul\u0026artist=Lake+Street+Dive\u0026came_from=67",
+"id":"8264049",
+"datetime":"2014-09-30T19:00:00",
+"description":null,
+"ticket_type":"Tickets",
+"ticket_url":"http://www.bandsintown.com/event/8264049/buy_tickets?app_id=pelicanpaul\u0026artist=Lake+Street+Dive",
+"on_sale_datetime":null,
+"title":"Lake Street Dive @ Iron City in Birmingham, AL",
+"ticket_status":"available",
+"formatted_location":"Birmingham, AL",
+"venue":{
+"region":"AL",
+"city":"Birmingham",
+"name":"Iron City",
+"latitude":33.5205556,
+"longitude":-86.8025,
+"country":"United States"
+}
+},
+{
+"formatted_datetime":"Wednesday, October 1, 2014 at 8:00PM",
+"artists":[
+{
+"image_url":"http://www.bandsintown.com/LakeStreetDive/photo/medium.jpg",
+"facebook_tour_dates_url":"http://bnds.in/THMefY",
+"name":"Lake Street Dive",
+"mbid":"584758b2-306b-4aea-8694-3876943c9968",
+"thumb_url":"http://www.bandsintown.com/LakeStreetDive/photo/small.jpg"
+},
+{
+"image_url":"http://www.bandsintown.com/Lucius/photo/medium.jpg",
+"facebook_tour_dates_url":"http://bnds.in/lo7NaO",
+"name":"Lucius",
+"mbid":"9e233b0e-9e9d-4865-9d66-18fbcaf02bd8",
+"thumb_url":"http://www.bandsintown.com/Lucius/photo/small.jpg"
+}
+],
+"facebook_rsvp_url":"http://www.bandsintown.com/event/8263035?app_id=pelicanpaul\u0026artist=Lake+Street+Dive\u0026came_from=67",
+"id":"8263035",
+"datetime":"2014-10-01T20:00:00",
+"description":null,
+"ticket_type":"Tickets",
+"ticket_url":"http://www.bandsintown.com/event/8263035/buy_tickets?app_id=pelicanpaul\u0026artist=Lake+Street+Dive",
+"on_sale_datetime":"2014-06-13T10:00:00",
+"title":"Lake Street Dive @ Tipitinas in New Orleans, LA",
+"ticket_status":"available",
+"formatted_location":"New Orleans, LA",
+"venue":{
+"region":"LA",
+"city":"New Orleans",
+"name":"Tipitinas",
+"latitude":29.91728,
+"longitude":-90.10098,
+"country":"United States"
+}
+},
+{
+"formatted_datetime":"Friday, October 3, 2014 at 7:00PM",
+"artists":[
+{
+"image_url":"http://www.bandsintown.com/LakeStreetDive/photo/medium.jpg",
+"facebook_tour_dates_url":"http://bnds.in/THMefY",
+"name":"Lake Street Dive",
+"mbid":"584758b2-306b-4aea-8694-3876943c9968",
+"thumb_url":"http://www.bandsintown.com/LakeStreetDive/photo/small.jpg"
+}
+],
+"facebook_rsvp_url":"http://www.bandsintown.com/event/8040576?app_id=pelicanpaul\u0026artist=Lake+Street+Dive\u0026came_from=67",
+"id":"8040576",
+"datetime":"2014-10-03T19:00:00",
+"description":null,
+"ticket_type":"Tickets",
+"ticket_url":"http://www.bandsintown.com/event/8040576/buy_tickets?app_id=pelicanpaul\u0026artist=Lake+Street+Dive",
+"on_sale_datetime":null,
+"title":"Lake Street Dive @ Austin City Limits Festival in Austin, TX",
+"ticket_status":"available",
+"formatted_location":"Austin, TX",
+"venue":{
+"region":"TX",
+"city":"Austin",
+"name":"Austin City Limits Festival",
+"latitude":30.2660358,
+"longitude":-97.7676149,
+"country":"United States"
+}
+},
+{
+"formatted_datetime":"Sunday, October 5, 2014 at 7:00PM",
+"artists":[
+{
+"image_url":"http://www.bandsintown.com/LakeStreetDive/photo/medium.jpg",
+"facebook_tour_dates_url":"http://bnds.in/THMefY",
+"name":"Lake Street Dive",
+"mbid":"584758b2-306b-4aea-8694-3876943c9968",
+"thumb_url":"http://www.bandsintown.com/LakeStreetDive/photo/small.jpg"
+}
+],
+"facebook_rsvp_url":"http://www.bandsintown.com/event/8626986?app_id=pelicanpaul\u0026artist=Lake+Street+Dive\u0026came_from=67",
+"id":"8626986",
+"datetime":"2014-10-05T19:00:00",
+"description":null,
+"ticket_type":"Tickets",
+"ticket_url":"http://www.bandsintown.com/event/8626986/buy_tickets?app_id=pelicanpaul\u0026artist=Lake+Street+Dive",
+"on_sale_datetime":null,
+"title":"Lake Street Dive @ Hardly Strictly Bluegrass in San Francisco, CA",
+"ticket_status":"available",
+"formatted_location":"San Francisco, CA",
+"venue":{
+"region":"CA",
+"city":"San Francisco",
+"name":"Hardly Strictly Bluegrass",
+"latitude":37.775,
+"longitude":-122.4183333,
+"country":"United States"
+}
+},
+{
+"formatted_datetime":"Monday, October 6, 2014 at 7:00PM",
+"artists":[
+{
+"image_url":"http://www.bandsintown.com/LakeStreetDive/photo/medium.jpg",
+"facebook_tour_dates_url":"http://bnds.in/THMefY",
+"name":"Lake Street Dive",
+"mbid":"584758b2-306b-4aea-8694-3876943c9968",
+"thumb_url":"http://www.bandsintown.com/LakeStreetDive/photo/small.jpg"
+}
+],
+"facebook_rsvp_url":"http://www.bandsintown.com/event/8622639?app_id=pelicanpaul\u0026artist=Lake+Street+Dive\u0026came_from=67",
+"id":"8622639",
+"datetime":"2014-10-06T19:00:00",
+"description":null,
+"ticket_type":"Tickets",
+"ticket_url":"http://www.bandsintown.com/event/8622639/buy_tickets?app_id=pelicanpaul\u0026artist=Lake+Street+Dive",
+"on_sale_datetime":null,
+"title":"Lake Street Dive @ The Catalyst in Santa Cruz, CA",
+"ticket_status":"available",
+"formatted_location":"Santa Cruz, CA",
+"venue":{
+"region":"CA",
+"city":"Santa Cruz",
+"name":"The Catalyst",
+"latitude":36.97139,
+"longitude":-122.025368,
+"country":"United States"
+}
+},
+{
+"formatted_datetime":"Friday, October 10, 2014 at 7:00PM",
+"artists":[
+{
+"image_url":"http://www.bandsintown.com/LakeStreetDive/photo/medium.jpg",
+"facebook_tour_dates_url":"http://bnds.in/THMefY",
+"name":"Lake Street Dive",
+"mbid":"584758b2-306b-4aea-8694-3876943c9968",
+"thumb_url":"http://www.bandsintown.com/LakeStreetDive/photo/small.jpg"
+}
+],
+"facebook_rsvp_url":"http://www.bandsintown.com/event/8040617?app_id=pelicanpaul\u0026artist=Lake+Street+Dive\u0026came_from=67",
+"id":"8040617",
+"datetime":"2014-10-10T19:00:00",
+"description":null,
+"ticket_type":"Tickets",
+"ticket_url":"http://www.bandsintown.com/event/8040617/buy_tickets?app_id=pelicanpaul\u0026artist=Lake+Street+Dive",
+"on_sale_datetime":null,
+"title":"Lake Street Dive @ Austin City Limits Festival in Austin, TX",
+"ticket_status":"available",
+"formatted_location":"Austin, TX",
+"venue":{
+"region":"TX",
+"city":"Austin",
+"name":"Austin City Limits Festival",
+"latitude":30.2660358,
+"longitude":-97.7676149,
+"country":"United States"
+}
+},
+{
+"formatted_datetime":"Saturday, October 25, 2014 at 7:00PM",
+"artists":[
+{
+"image_url":"http://www.bandsintown.com/LakeStreetDive/photo/medium.jpg",
+"facebook_tour_dates_url":"http://bnds.in/THMefY",
+"name":"Lake Street Dive",
+"mbid":"584758b2-306b-4aea-8694-3876943c9968",
+"thumb_url":"http://www.bandsintown.com/LakeStreetDive/photo/small.jpg"
+}
+],
+"facebook_rsvp_url":"http://www.bandsintown.com/event/8527547?app_id=pelicanpaul\u0026artist=Lake+Street+Dive\u0026came_from=67",
+"id":"8527547",
+"datetime":"2014-10-25T19:00:00",
+"description":null,
+"ticket_type":"Tickets",
+"ticket_url":"http://www.bandsintown.com/event/8527547/buy_tickets?app_id=pelicanpaul\u0026artist=Lake+Street+Dive",
+"on_sale_datetime":"2014-08-08T10:00:00",
+"title":"Lake Street Dive @ The Cannery Ballroom in Nashville, TN",
+"ticket_status":"available",
+"formatted_location":"Nashville, TN",
+"venue":{
+"region":"TN",
+"city":"Nashville",
+"name":"The Cannery Ballroom",
+"latitude":36.152929,
+"longitude":-86.779422,
+"country":"United States"
+}
+},
+{
+"formatted_datetime":"Sunday, October 26, 2014 at 7:00PM",
+"artists":[
+{
+"image_url":"http://www.bandsintown.com/LakeStreetDive/photo/medium.jpg",
+"facebook_tour_dates_url":"http://bnds.in/THMefY",
+"name":"Lake Street Dive",
+"mbid":"584758b2-306b-4aea-8694-3876943c9968",
+"thumb_url":"http://www.bandsintown.com/LakeStreetDive/photo/small.jpg"
+}
+],
+"facebook_rsvp_url":"http://www.bandsintown.com/event/8527552?app_id=pelicanpaul\u0026artist=Lake+Street+Dive\u0026came_from=67",
+"id":"8527552",
+"datetime":"2014-10-26T19:00:00",
+"description":null,
+"ticket_type":"Tickets",
+"ticket_url":"http://www.bandsintown.com/event/8527552/buy_tickets?app_id=pelicanpaul\u0026artist=Lake+Street+Dive",
+"on_sale_datetime":null,
+"title":"Lake Street Dive @ Orange Peel in Asheville, NC",
+"ticket_status":"available",
+"formatted_location":"Asheville, NC",
+"venue":{
+"region":"NC",
+"city":"Asheville",
+"name":"Orange Peel",
+"latitude":35.591392,
+"longitude":-82.55083,
+"country":"United States"
+}
+},
+{
+"formatted_datetime":"Tuesday, October 28, 2014 at 7:00PM",
+"artists":[
+{
+"image_url":"http://www.bandsintown.com/LakeStreetDive/photo/medium.jpg",
+"facebook_tour_dates_url":"http://bnds.in/THMefY",
+"name":"Lake Street Dive",
+"mbid":"584758b2-306b-4aea-8694-3876943c9968",
+"thumb_url":"http://www.bandsintown.com/LakeStreetDive/photo/small.jpg"
+}
+],
+"facebook_rsvp_url":"http://www.bandsintown.com/event/8527556?app_id=pelicanpaul\u0026artist=Lake+Street+Dive\u0026came_from=67",
+"id":"8527556",
+"datetime":"2014-10-28T19:00:00",
+"description":null,
+"ticket_type":"Tickets",
+"ticket_url":"http://www.bandsintown.com/event/8527556/buy_tickets?app_id=pelicanpaul\u0026artist=Lake+Street+Dive",
+"on_sale_datetime":null,
+"title":"Lake Street Dive @ Neighborhood Theater in Charlotte, NC",
+"ticket_status":"available",
+"formatted_location":"Charlotte, NC",
+"venue":{
+"region":"NC",
+"city":"Charlotte",
+"name":"Neighborhood Theater",
+"latitude":35.247678,
+"longitude":-80.804326,
+"country":"United States"
+}
+},
+{
+"formatted_datetime":"Wednesday, October 29, 2014 at 7:00PM",
+"artists":[
+{
+"image_url":"http://www.bandsintown.com/LakeStreetDive/photo/medium.jpg",
+"facebook_tour_dates_url":"http://bnds.in/THMefY",
+"name":"Lake Street Dive",
+"mbid":"584758b2-306b-4aea-8694-3876943c9968",
+"thumb_url":"http://www.bandsintown.com/LakeStreetDive/photo/small.jpg"
+}
+],
+"facebook_rsvp_url":"http://www.bandsintown.com/event/8527557?app_id=pelicanpaul\u0026artist=Lake+Street+Dive\u0026came_from=67",
+"id":"8527557",
+"datetime":"2014-10-29T19:00:00",
+"description":null,
+"ticket_type":"Tickets",
+"ticket_url":"http://www.bandsintown.com/event/8527557/buy_tickets?app_id=pelicanpaul\u0026artist=Lake+Street+Dive",
+"on_sale_datetime":null,
+"title":"Lake Street Dive @ Buckhead Theater in Atlanta, GA",
+"ticket_status":"available",
+"formatted_location":"Atlanta, GA",
+"venue":{
+"region":"GA",
+"city":"Atlanta",
+"name":"Buckhead Theater",
+"latitude":33.7488889,
+"longitude":-84.3880556,
+"country":"United States"
+}
+},
+{
+"formatted_datetime":"Thursday, October 30, 2014 at 7:00PM",
+"artists":[
+{
+"image_url":"http://www.bandsintown.com/LakeStreetDive/photo/medium.jpg",
+"facebook_tour_dates_url":"http://bnds.in/THMefY",
+"name":"Lake Street Dive",
+"mbid":"584758b2-306b-4aea-8694-3876943c9968",
+"thumb_url":"http://www.bandsintown.com/LakeStreetDive/photo/small.jpg"
+}
+],
+"facebook_rsvp_url":"http://www.bandsintown.com/event/8527561?app_id=pelicanpaul\u0026artist=Lake+Street+Dive\u0026came_from=67",
+"id":"8527561",
+"datetime":"2014-10-30T19:00:00",
+"description":null,
+"ticket_type":"Tickets",
+"ticket_url":"http://www.bandsintown.com/event/8527561/buy_tickets?app_id=pelicanpaul\u0026artist=Lake+Street+Dive",
+"on_sale_datetime":null,
+"title":"Lake Street Dive @ Charleston Music Hall in Charleston, SC",
+"ticket_status":"available",
+"formatted_location":"Charleston, SC",
+"venue":{
+"region":"SC",
+"city":"Charleston",
+"name":"Charleston Music Hall",
+"latitude":32.788796,
+"longitude":-79.936162,
+"country":"United States"
+}
+},
+{
+"formatted_datetime":"Saturday, November 1, 2014 at 7:00PM",
+"artists":[
+{
+"image_url":"http://www.bandsintown.com/LakeStreetDive/photo/medium.jpg",
+"facebook_tour_dates_url":"http://bnds.in/THMefY",
+"name":"Lake Street Dive",
+"mbid":"584758b2-306b-4aea-8694-3876943c9968",
+"thumb_url":"http://www.bandsintown.com/LakeStreetDive/photo/small.jpg"
+}
+],
+"facebook_rsvp_url":"http://www.bandsintown.com/event/8527565?app_id=pelicanpaul\u0026artist=Lake+Street+Dive\u0026came_from=67",
+"id":"8527565",
+"datetime":"2014-11-01T19:00:00",
+"description":null,
+"ticket_type":"Tickets",
+"ticket_url":"http://www.bandsintown.com/event/8527565/buy_tickets?app_id=pelicanpaul\u0026artist=Lake+Street+Dive",
+"on_sale_datetime":null,
+"title":"Lake Street Dive @ The Cuban Club in Tampa, FL",
+"ticket_status":"available",
+"formatted_location":"Tampa, FL",
+"venue":{
+"region":"FL",
+"city":"Tampa",
+"name":"The Cuban Club",
+"latitude":27.96185,
+"longitude":-82.444249,
+"country":"United States"
+}
+},
+{
+"formatted_datetime":"Sunday, November 2, 2014 at 6:00PM",
+"artists":[
+{
+"image_url":"http://www.bandsintown.com/LakeStreetDive/photo/medium.jpg",
+"facebook_tour_dates_url":"http://bnds.in/THMefY",
+"name":"Lake Street Dive",
+"mbid":"584758b2-306b-4aea-8694-3876943c9968",
+"thumb_url":"http://www.bandsintown.com/LakeStreetDive/photo/small.jpg"
+}
+],
+"facebook_rsvp_url":"http://www.bandsintown.com/event/8527569?app_id=pelicanpaul\u0026artist=Lake+Street+Dive\u0026came_from=67",
+"id":"8527569",
+"datetime":"2014-11-02T18:00:00",
+"description":null,
+"ticket_type":"Tickets",
+"ticket_url":"http://www.bandsintown.com/event/8527569/buy_tickets?app_id=pelicanpaul\u0026artist=Lake+Street+Dive",
+"on_sale_datetime":null,
+"title":"Lake Street Dive @ The Beacham in Orlando, FL",
+"ticket_status":"available",
+"formatted_location":"Orlando, FL",
+"venue":{
+"region":"FL",
+"city":"Orlando",
+"name":"The Beacham",
+"latitude":28.542958,
+"longitude":-81.379061,
+"country":"United States"
+}
+},
+{
+"formatted_datetime":"Monday, November 3, 2014 at 7:00PM",
+"artists":[
+{
+"image_url":"http://www.bandsintown.com/LakeStreetDive/photo/medium.jpg",
+"facebook_tour_dates_url":"http://bnds.in/THMefY",
+"name":"Lake Street Dive",
+"mbid":"584758b2-306b-4aea-8694-3876943c9968",
+"thumb_url":"http://www.bandsintown.com/LakeStreetDive/photo/small.jpg"
+}
+],
+"facebook_rsvp_url":"http://www.bandsintown.com/event/8527572?app_id=pelicanpaul\u0026artist=Lake+Street+Dive\u0026came_from=67",
+"id":"8527572",
+"datetime":"2014-11-03T19:00:00",
+"description":null,
+"ticket_type":"Tickets",
+"ticket_url":"http://www.bandsintown.com/event/8527572/buy_tickets?app_id=pelicanpaul\u0026artist=Lake+Street+Dive",
+"on_sale_datetime":"2014-08-07T15:09:20",
+"title":"Lake Street Dive @ Vinyl Music Hall in Pensacola, FL",
+"ticket_status":"available",
+"formatted_location":"Pensacola, FL",
+"venue":{
+"region":"FL",
+"city":"Pensacola",
+"name":"Vinyl Music Hall",
+"latitude":30.412706,
+"longitude":-87.215186,
+"country":"United States"
+}
+},
+{
+"formatted_datetime":"Wednesday, November 5, 2014 at 7:00PM",
+"artists":[
+{
+"image_url":"http://www.bandsintown.com/LakeStreetDive/photo/medium.jpg",
+"facebook_tour_dates_url":"http://bnds.in/THMefY",
+"name":"Lake Street Dive",
+"mbid":"584758b2-306b-4aea-8694-3876943c9968",
+"thumb_url":"http://www.bandsintown.com/LakeStreetDive/photo/small.jpg"
+}
+],
+"facebook_rsvp_url":"http://www.bandsintown.com/event/8527577?app_id=pelicanpaul\u0026artist=Lake+Street+Dive\u0026came_from=67",
+"id":"8527577",
+"datetime":"2014-11-05T19:00:00",
+"description":null,
+"ticket_type":"Tickets",
+"ticket_url":"http://www.bandsintown.com/event/8527577/buy_tickets?app_id=pelicanpaul\u0026artist=Lake+Street+Dive",
+"on_sale_datetime":null,
+"title":"Lake Street Dive @ Bijou Theater in Knoxville, TN",
+"ticket_status":"available",
+"formatted_location":"Knoxville, TN",
+"venue":{
+"region":"TN",
+"city":"Knoxville",
+"name":"Bijou Theater",
+"latitude":35.9605556,
+"longitude":-83.9208333,
+"country":"United States"
+}
+},
+{
+"formatted_datetime":"Thursday, November 6, 2014 at 7:00PM",
+"artists":[
+{
+"image_url":"http://www.bandsintown.com/LakeStreetDive/photo/medium.jpg",
+"facebook_tour_dates_url":"http://bnds.in/THMefY",
+"name":"Lake Street Dive",
+"mbid":"584758b2-306b-4aea-8694-3876943c9968",
+"thumb_url":"http://www.bandsintown.com/LakeStreetDive/photo/small.jpg"
+}
+],
+"facebook_rsvp_url":"http://www.bandsintown.com/event/8527605?app_id=pelicanpaul\u0026artist=Lake+Street+Dive\u0026came_from=67",
+"id":"8527605",
+"datetime":"2014-11-06T19:00:00",
+"description":null,
+"ticket_type":"Tickets",
+"ticket_url":"http://www.bandsintown.com/event/8527605/buy_tickets?app_id=pelicanpaul\u0026artist=Lake+Street+Dive",
+"on_sale_datetime":"2014-08-07T15:10:14",
+"title":"Lake Street Dive @ Haw River Ballroom in Saxapahaw, NC",
+"ticket_status":"available",
+"formatted_location":"Saxapahaw, NC",
+"venue":{
+"region":"NC",
+"city":"Saxapahaw",
+"name":"Haw River Ballroom",
+"latitude":35.946926,
+"longitude":-79.318245,
+"country":"United States"
+}
+},
+{
+"formatted_datetime":"Friday, November 7, 2014 at 7:00PM",
+"artists":[
+{
+"image_url":"http://www.bandsintown.com/LakeStreetDive/photo/medium.jpg",
+"facebook_tour_dates_url":"http://bnds.in/THMefY",
+"name":"Lake Street Dive",
+"mbid":"584758b2-306b-4aea-8694-3876943c9968",
+"thumb_url":"http://www.bandsintown.com/LakeStreetDive/photo/small.jpg"
+}
+],
+"facebook_rsvp_url":"http://www.bandsintown.com/event/8527622?app_id=pelicanpaul\u0026artist=Lake+Street+Dive\u0026came_from=67",
+"id":"8527622",
+"datetime":"2014-11-07T19:00:00",
+"description":null,
+"ticket_type":"Tickets",
+"ticket_url":"http://www.bandsintown.com/event/8527622/buy_tickets?app_id=pelicanpaul\u0026artist=Lake+Street+Dive",
+"on_sale_datetime":"2014-08-08T07:45:00",
+"title":"Lake Street Dive @ Jefferson Theater in Charlottesville, VA",
+"ticket_status":"available",
+"formatted_location":"Charlottesville, VA",
+"venue":{
+"region":"VA",
+"city":"Charlottesville",
+"name":"Jefferson Theater",
+"latitude":38.0306668,
+"longitude":-78.4812547,
+"country":"United States"
+}
+},
+{
+"formatted_datetime":"Saturday, November 8, 2014 at 7:00PM",
+"artists":[
+{
+"image_url":"http://www.bandsintown.com/LakeStreetDive/photo/medium.jpg",
+"facebook_tour_dates_url":"http://bnds.in/THMefY",
+"name":"Lake Street Dive",
+"mbid":"584758b2-306b-4aea-8694-3876943c9968",
+"thumb_url":"http://www.bandsintown.com/LakeStreetDive/photo/small.jpg"
+}
+],
+"facebook_rsvp_url":"http://www.bandsintown.com/event/8527627?app_id=pelicanpaul\u0026artist=Lake+Street+Dive\u0026came_from=67",
+"id":"8527627",
+"datetime":"2014-11-08T19:00:00",
+"description":null,
+"ticket_type":"Tickets",
+"ticket_url":"http://www.bandsintown.com/event/8527627/buy_tickets?app_id=pelicanpaul\u0026artist=Lake+Street+Dive",
+"on_sale_datetime":"2014-08-08T07:55:00",
+"title":"Lake Street Dive @ Jefferson Theater in Charlottesville, VA",
+"ticket_status":"available",
+"formatted_location":"Charlottesville, VA",
+"venue":{
+"region":"VA",
+"city":"Charlottesville",
+"name":"Jefferson Theater",
+"latitude":38.0306668,
+"longitude":-78.4812547,
+"country":"United States"
+}
+},
+{
+"formatted_datetime":"Monday, November 10, 2014 at 7:00PM",
+"artists":[
+{
+"image_url":"http://www.bandsintown.com/LakeStreetDive/photo/medium.jpg",
+"facebook_tour_dates_url":"http://bnds.in/THMefY",
+"name":"Lake Street Dive",
+"mbid":"584758b2-306b-4aea-8694-3876943c9968",
+"thumb_url":"http://www.bandsintown.com/LakeStreetDive/photo/small.jpg"
+}
+],
+"facebook_rsvp_url":"http://www.bandsintown.com/event/8527524?app_id=pelicanpaul\u0026artist=Lake+Street+Dive\u0026came_from=67",
+"id":"8527524",
+"datetime":"2014-11-10T19:00:00",
+"description":null,
+"ticket_type":"Tickets",
+"ticket_url":"http://www.bandsintown.com/event/8527524/buy_tickets?app_id=pelicanpaul\u0026artist=Lake+Street+Dive",
+"on_sale_datetime":"2014-08-07T15:10:25",
+"title":"Lake Street Dive @ Rams Head Live in Baltimore, MD",
+"ticket_status":"available",
+"formatted_location":"Baltimore, MD",
+"venue":{
+"region":"MD",
+"city":"Baltimore",
+"name":"Rams Head Live",
+"latitude":39.2902778,
+"longitude":-76.6125,
+"country":"United States"
+}
+},
+{
+"formatted_datetime":"Wednesday, November 12, 2014 at 7:00PM",
+"artists":[
+{
+"image_url":"http://www.bandsintown.com/LakeStreetDive/photo/medium.jpg",
+"facebook_tour_dates_url":"http://bnds.in/THMefY",
+"name":"Lake Street Dive",
+"mbid":"584758b2-306b-4aea-8694-3876943c9968",
+"thumb_url":"http://www.bandsintown.com/LakeStreetDive/photo/small.jpg"
+}
+],
+"facebook_rsvp_url":"http://www.bandsintown.com/event/8527634?app_id=pelicanpaul\u0026artist=Lake+Street+Dive\u0026came_from=67",
+"id":"8527634",
+"datetime":"2014-11-12T19:00:00",
+"description":null,
+"ticket_type":"Tickets",
+"ticket_url":"http://www.bandsintown.com/event/8527634/buy_tickets?app_id=pelicanpaul\u0026artist=Lake+Street+Dive",
+"on_sale_datetime":null,
+"title":"Lake Street Dive @ 9:30 Club in Washington, DC",
+"ticket_status":"available",
+"formatted_location":"Washington, DC",
+"venue":{
+"region":"DC",
+"city":"Washington",
+"name":"9:30 Club",
+"latitude":38.91789,
+"longitude":-77.023183,
+"country":"United States"
+}
+},
+{
+"formatted_datetime":"Friday, November 14, 2014 at 7:00PM",
+"artists":[
+{
+"image_url":"http://www.bandsintown.com/LakeStreetDive/photo/medium.jpg",
+"facebook_tour_dates_url":"http://bnds.in/THMefY",
+"name":"Lake Street Dive",
+"mbid":"584758b2-306b-4aea-8694-3876943c9968",
+"thumb_url":"http://www.bandsintown.com/LakeStreetDive/photo/small.jpg"
+}
+],
+"facebook_rsvp_url":"http://www.bandsintown.com/event/8527639?app_id=pelicanpaul\u0026artist=Lake+Street+Dive\u0026came_from=67",
+"id":"8527639",
+"datetime":"2014-11-14T19:00:00",
+"description":null,
+"ticket_type":"Tickets",
+"ticket_url":"http://www.bandsintown.com/event/8527639/buy_tickets?app_id=pelicanpaul\u0026artist=Lake+Street+Dive",
+"on_sale_datetime":"2014-08-06T23:06:07",
+"title":"Lake Street Dive @ Terminal 5 in New York, NY",
+"ticket_status":"available",
+"formatted_location":"New York, NY",
+"venue":{
+"region":"NY",
+"city":"New York",
+"name":"Terminal 5",
+"latitude":40.769704,
+"longitude":-73.992414,
+"country":"United States"
+}
+},
+{
+"formatted_datetime":"Saturday, November 15, 2014 at 7:00PM",
+"artists":[
+{
+"image_url":"http://www.bandsintown.com/LakeStreetDive/photo/medium.jpg",
+"facebook_tour_dates_url":"http://bnds.in/THMefY",
+"name":"Lake Street Dive",
+"mbid":"584758b2-306b-4aea-8694-3876943c9968",
+"thumb_url":"http://www.bandsintown.com/LakeStreetDive/photo/small.jpg"
+}
+],
+"facebook_rsvp_url":"http://www.bandsintown.com/event/8527643?app_id=pelicanpaul\u0026artist=Lake+Street+Dive\u0026came_from=67",
+"id":"8527643",
+"datetime":"2014-11-15T19:00:00",
+"description":null,
+"ticket_type":"Tickets",
+"ticket_url":"http://www.bandsintown.com/event/8527643/buy_tickets?app_id=pelicanpaul\u0026artist=Lake+Street+Dive",
+"on_sale_datetime":"2014-08-06T23:06:16",
+"title":"Lake Street Dive @ Terminal 5 in New York, NY",
+"ticket_status":"available",
+"formatted_location":"New York, NY",
+"venue":{
+"region":"NY",
+"city":"New York",
+"name":"Terminal 5",
+"latitude":40.769704,
+"longitude":-73.992414,
+"country":"United States"
+}
+},
+{
+"formatted_datetime":"Sunday, November 16, 2014 at 7:00PM",
+"artists":[
+{
+"image_url":"http://www.bandsintown.com/LakeStreetDive/photo/medium.jpg",
+"facebook_tour_dates_url":"http://bnds.in/THMefY",
+"name":"Lake Street Dive",
+"mbid":"584758b2-306b-4aea-8694-3876943c9968",
+"thumb_url":"http://www.bandsintown.com/LakeStreetDive/photo/small.jpg"
+}
+],
+"facebook_rsvp_url":"http://www.bandsintown.com/event/8527651?app_id=pelicanpaul\u0026artist=Lake+Street+Dive\u0026came_from=67",
+"id":"8527651",
+"datetime":"2014-11-16T19:00:00",
+"description":null,
+"ticket_type":"Tickets",
+"ticket_url":"http://www.bandsintown.com/event/8527651/buy_tickets?app_id=pelicanpaul\u0026artist=Lake+Street+Dive",
+"on_sale_datetime":"2014-08-07T15:14:30",
+"title":"Lake Street Dive @ Water Street Music Hall in Rochester, NY",
+"ticket_status":"available",
+"formatted_location":"Rochester, NY",
+"venue":{
+"region":"NY",
+"city":"Rochester",
+"name":"Water Street Music Hall",
+"latitude":43.16021,
+"longitude":-77.611415,
+"country":"United States"
+}
+},
+{
+"formatted_datetime":"Tuesday, November 18, 2014 at 7:00PM",
+"artists":[
+{
+"image_url":"http://www.bandsintown.com/LakeStreetDive/photo/medium.jpg",
+"facebook_tour_dates_url":"http://bnds.in/THMefY",
+"name":"Lake Street Dive",
+"mbid":"584758b2-306b-4aea-8694-3876943c9968",
+"thumb_url":"http://www.bandsintown.com/LakeStreetDive/photo/small.jpg"
+}
+],
+"facebook_rsvp_url":"http://www.bandsintown.com/event/8527654?app_id=pelicanpaul\u0026artist=Lake+Street+Dive\u0026came_from=67",
+"id":"8527654",
+"datetime":"2014-11-18T19:00:00",
+"description":null,
+"ticket_type":"Tickets",
+"ticket_url":"http://www.bandsintown.com/event/8527654/buy_tickets?app_id=pelicanpaul\u0026artist=Lake+Street+Dive",
+"on_sale_datetime":"2014-08-07T15:10:37",
+"title":"Lake Street Dive @ Union Transfer in Philadelphia, PA",
+"ticket_status":"available",
+"formatted_location":"Philadelphia, PA",
+"venue":{
+"region":"PA",
+"city":"Philadelphia",
+"name":"Union Transfer",
+"latitude":39.961702,
+"longitude":-75.155499,
+"country":"United States"
+}
+},
+{
+"formatted_datetime":"Wednesday, November 19, 2014 at 7:00PM",
+"artists":[
+{
+"image_url":"http://www.bandsintown.com/LakeStreetDive/photo/medium.jpg",
+"facebook_tour_dates_url":"http://bnds.in/THMefY",
+"name":"Lake Street Dive",
+"mbid":"584758b2-306b-4aea-8694-3876943c9968",
+"thumb_url":"http://www.bandsintown.com/LakeStreetDive/photo/small.jpg"
+}
+],
+"facebook_rsvp_url":"http://www.bandsintown.com/event/8527657?app_id=pelicanpaul\u0026artist=Lake+Street+Dive\u0026came_from=67",
+"id":"8527657",
+"datetime":"2014-11-19T19:00:00",
+"description":null,
+"ticket_type":"Tickets",
+"ticket_url":"http://www.bandsintown.com/event/8527657/buy_tickets?app_id=pelicanpaul\u0026artist=Lake+Street+Dive",
+"on_sale_datetime":"2014-08-07T15:11:24",
+"title":"Lake Street Dive @ Union Transfer in Philadelphia, PA",
+"ticket_status":"available",
+"formatted_location":"Philadelphia, PA",
+"venue":{
+"region":"PA",
+"city":"Philadelphia",
+"name":"Union Transfer",
+"latitude":39.961702,
+"longitude":-75.155499,
+"country":"United States"
+}
+},
+{
+"formatted_datetime":"Saturday, November 22, 2014 at 7:00PM",
+"artists":[
+{
+"image_url":"http://www.bandsintown.com/LakeStreetDive/photo/medium.jpg",
+"facebook_tour_dates_url":"http://bnds.in/THMefY",
+"name":"Lake Street Dive",
+"mbid":"584758b2-306b-4aea-8694-3876943c9968",
+"thumb_url":"http://www.bandsintown.com/LakeStreetDive/photo/small.jpg"
+}
+],
+"facebook_rsvp_url":"http://www.bandsintown.com/event/8527662?app_id=pelicanpaul\u0026artist=Lake+Street+Dive\u0026came_from=67",
+"id":"8527662",
+"datetime":"2014-11-22T19:00:00",
+"description":null,
+"ticket_type":"Tickets",
+"ticket_url":"http://www.bandsintown.com/event/8527662/buy_tickets?app_id=pelicanpaul\u0026artist=Lake+Street+Dive",
+"on_sale_datetime":null,
+"title":"Lake Street Dive @ State Theater in Portland, ME",
+"ticket_status":"available",
+"formatted_location":"Portland, ME",
+"venue":{
+"region":"ME",
+"city":"Portland",
+"name":"State Theater",
+"latitude":43.653953,
+"longitude":-70.263559,
+"country":"United States"
+}
+},
+{
+"formatted_datetime":"Sunday, November 23, 2014 at 8:00PM",
+"artists":[
+{
+"image_url":"http://www.bandsintown.com/LakeStreetDive/photo/medium.jpg",
+"facebook_tour_dates_url":"http://bnds.in/THMefY",
+"name":"Lake Street Dive",
+"mbid":"584758b2-306b-4aea-8694-3876943c9968",
+"thumb_url":"http://www.bandsintown.com/LakeStreetDive/photo/small.jpg"
+}
+],
+"facebook_rsvp_url":"http://www.bandsintown.com/event/8526470?app_id=pelicanpaul\u0026artist=Lake+Street+Dive\u0026came_from=67",
+"id":"8526470",
+"datetime":"2014-11-23T20:00:00",
+"description":null,
+"ticket_type":"Tickets",
+"ticket_url":"http://www.bandsintown.com/event/8526470/buy_tickets?app_id=pelicanpaul\u0026artist=Lake+Street+Dive",
+"on_sale_datetime":"2014-08-07T15:10:48",
+"title":"Lake Street Dive @ Bearsville Theater in Woodstock, NY",
+"ticket_status":"available",
+"formatted_location":"Woodstock, NY",
+"venue":{
+"region":"NY",
+"city":"Woodstock",
+"name":"Bearsville Theater",
+"latitude":42.040451,
+"longitude":-74.136696,
+"country":"United States"
+}
+},
+{
+"formatted_datetime":"Sunday, November 30, 2014 at 7:00PM",
+"artists":[
+{
+"image_url":"http://www.bandsintown.com/LakeStreetDive/photo/medium.jpg",
+"facebook_tour_dates_url":"http://bnds.in/THMefY",
+"name":"Lake Street Dive",
+"mbid":"584758b2-306b-4aea-8694-3876943c9968",
+"thumb_url":"http://www.bandsintown.com/LakeStreetDive/photo/small.jpg"
+}
+],
+"facebook_rsvp_url":"http://www.bandsintown.com/event/8609390?app_id=pelicanpaul\u0026artist=Lake+Street+Dive\u0026came_from=67",
+"id":"8609390",
+"datetime":"2014-11-30T19:00:00",
+"description":null,
+"ticket_type":"Tickets",
+"ticket_url":"http://www.bandsintown.com/event/8609390/buy_tickets?app_id=pelicanpaul\u0026artist=Lake+Street+Dive",
+"on_sale_datetime":null,
+"title":"Lake Street Dive @ The Academy of Music in Northampton, MA",
+"ticket_status":"available",
+"formatted_location":"Northampton, MA",
+"venue":{
+"region":"MA",
+"city":"Northampton",
+"name":"The Academy of Music",
+"latitude":42.31982,
+"longitude":-72.629261,
+"country":"United States"
+}
+}
+])

@@ -1,0 +1,28 @@
+<div class="wrapper-misc">
+    <h1>Featured Artists</h1>
+
+    <ul class="home-list">
+        <li ng-repeat="items in artists">
+            <div class="artist-item">
+            <a href="#/tour-dates?artist={{items.artistName | encode}}">
+
+                <h2>{{items.artistName}}</h2>
+
+                <img ng-src="images/artists/{{items.artistImage}}"
+                     class="img-thumb img-responsive"/>
+            </a>
+            </div>
+        </li>
+    </ul>
+
+
+    <ul>
+<li  ng-repeat="items in artists2">
+    {{items.artistName}}
+
+</li>
+
+
+    </ul>
+
+</div>
