@@ -5,19 +5,22 @@
 /* 
 Author: Paul Lyons
 Date: 9/10/2014
-Demonstration of AngularJS Controller 
+Demonstration of AngularJS Controllers
 **/
 
-angular.module('ontourApp.controllers', []).controller('GlobalNav', ['$scope', '$http', function ($scope, $http) {
+angular.module('ontourApp.controllers', [])
+    /*global nav*/
+    .controller('GlobalNav', ['$scope', 'Artists', function ($scope, Artists) {
 
-    $http.get('data/artists.json').success(function (data) {
-        $scope.artists = data;
+    $scope.artists = Artists.query();
 
         $scope.preventHref = function (event) {
             event.stopPropagation();
         };
-    });
-}]).controller('Footer', ['$scope', '$http', function ($scope, $http) {
+
+}])
+    /*footer*/
+    .controller('Footer', ['$scope', function ($scope) {
 
     $scope.justCall = function () {
         alert('I am not sure why you would want to go to those sites. All the good content is here!');
@@ -25,32 +28,27 @@ angular.module('ontourApp.controllers', []).controller('GlobalNav', ['$scope', '
     }
 
 }])
-    .controller('Home', ['$scope', '$routeParams', '$rootScope', '$http', 'Artists', function ($scope, $routeParams, $rootScope, $http, Artists) {
-        $http.get('data/artists.json').success(function (data) {
-            $scope.artists = data;
-        });
+    /*home*/
+    .controller('Home', ['$scope', '$routeParams', '$rootScope', 'Artists',
+        function ($scope, $routeParams, $rootScope, Artists) {
 
-       $scope.artists2 = Artists.query();
-
+        $scope.artists = Artists.query();
         $rootScope.title = 'Upcoming Tour Dates - Featured Artists';
 
-    }]).controller('Contact', ['$scope', '$rootScope', '$http', function ($scope, $rootScope, $http) {
+    }])
+    /*contact*/
+    .controller('Contact', ['$scope', '$rootScope', '$http', 'Countries', 'States',
+        function ($scope, $rootScope, $http, Countries, States) {
+
         $rootScope.title = 'Contact Us';
-
-        $http.get('data/locations/countries.json').success(function (data) {
-            $scope.Countries = data;
-        });
-
-        $http.get('data/locations/states-us.json').success(function (data) {
-            $scope.USstates = data.states;
-        });
-
+        $scope.Countries = Countries.query();
+        $scope.USstates = States.query();
 
         $scope.master = {};
 
         $scope.update = function (user) {
             $scope.master = angular.copy(user);
-			
+
             $scope.processForm = function () {
                 $http({
                     method: 'POST',
@@ -75,7 +73,10 @@ angular.module('ontourApp.controllers', []).controller('GlobalNav', ['$scope', '
 
         };
 
-    }]).controller('FindShows', ['$scope', '$http', '$rootScope', function ($scope, $http, $rootScope) {
+    }])
+    /*find shows*/
+    .controller('FindShows', ['$scope', '$http', '$rootScope',
+        function ($scope, $http, $rootScope) {
         $rootScope.title = 'Find Shows';
 
         $http.jsonp('http://api.bandsintown.com/artists/' + artist + '/events.json?api_version=2.0&app_id=pelicanpaul&callback=JSON_CALLBACK').success(function (data) {
@@ -84,23 +85,26 @@ angular.module('ontourApp.controllers', []).controller('GlobalNav', ['$scope', '
 
         $scope.quantity = 20;
 
-    }]).controller('TourDates', ['$scope', '$rootScope', '$http', '$location', function ($scope, $rootScope, $http, $location) {
+    }]).controller('TourDates', ['$scope', '$rootScope', '$http', '$location', 'Artists',
+        function ($scope, $rootScope, $http, $location, Artists) {
 
         var artist = $location.search()['artist'];
 
         $scope.showDetails = false;
-
         $scope.queryArtist = artist;
-        $http.get('data/artists.json').success(function (data) {
-            $scope.artists = data;
+
+        $scope.artists = Artists.query();
+
+
+
             angular.forEach($scope.artists, function (item) {
                 var artistName = item.artistName;
                 if (artistName === artist) {
                     $scope.artistimage = 'images/artists/' + item.artistImage;
-
                 }
             });
-        });
+
+
 
 
         $scope.title = artist;

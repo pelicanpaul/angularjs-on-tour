@@ -13,7 +13,7 @@ angular.module('ontourApp', [
         $routeProvider.when('/home', {templateUrl: 'views/home.html', controller: 'Home'});
         $routeProvider.when('/contact', {templateUrl: 'views/contact.html', controller: 'Contact'});
         $routeProvider.when('/find-shows', {templateUrl: 'views/find-shows.html', controller: 'FindShows'});
-        $routeProvider.when('/tour-dates', {title: 'Band Schedules', templateUrl: 'views/bands-in-town.html', controller: 'TourDates'});
+        $routeProvider.when('/tour-dates/:artistName', {title: 'Band Schedules', templateUrl: 'views/bands-in-town.html', controller: 'TourDates'});
         $routeProvider.otherwise({redirectTo: '/home'});
 
     }]).run(function ($rootScope) {

@@ -4,7 +4,7 @@
     <ul class="home-list">
         <li ng-repeat="items in artists">
             <div class="artist-item">
-            <a href="#/tour-dates?artist={{items.artistName | encode}}">
+            <a href="#/tour-dates/{{items.artistName | encode}}">
 
                 <h2>{{items.artistName}}</h2>
 
@@ -16,13 +16,5 @@
     </ul>
 
 
-    <ul>
-<li  ng-repeat="items in artists2">
-    {{items.artistName}}
-
-</li>
-
-
-    </ul>
 
 </div>
