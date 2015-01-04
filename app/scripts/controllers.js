@@ -19,6 +19,7 @@ angular.module('ontourApp.controllers', [])
         };
 
 }])
+
     /*footer*/
     .controller('Footer', ['$scope', function ($scope) {
 
@@ -28,20 +29,23 @@ angular.module('ontourApp.controllers', [])
     }
 
 }])
+
     /*home*/
     .controller('Home', ['$scope', '$routeParams', '$rootScope', 'Artists',
         function ($scope, $routeParams, $rootScope, Artists) {
 
         $scope.artists = Artists.query();
+        $scope.pageTitle = 'Featured Artists';
         $rootScope.title = 'Upcoming Tour Dates - Featured Artists';
 
     }])
+
     /*contact*/
     .controller('Contact', ['$scope', '$rootScope', '$http', 'Countries', 'States',
         function ($scope, $rootScope, $http, Countries, States) {
 
         $rootScope.title = 'Contact Us';
-        $scope.Countries = Countries.query();
+        $scope.countries = Countries.query();
         $scope.USstates = States.query();
 
         $scope.master = {};
@@ -74,6 +78,7 @@ angular.module('ontourApp.controllers', [])
         };
 
     }])
+
     /*find shows*/
     .controller('FindShows', ['$scope', '$http', '$rootScope',
         function ($scope, $http, $rootScope) {
@@ -85,26 +90,16 @@ angular.module('ontourApp.controllers', [])
 
         $scope.quantity = 20;
 
-    }]).controller('TourDates', ['$scope', '$rootScope', '$http', '$location', 'Artists',
-        function ($scope, $rootScope, $http, $location, Artists) {
+    }]).controller('TourDates', ['$scope','$rootScope', '$routeParams', '$http', '$location', 'Artists',
+        function ($scope, $rootScope, $routeParams, $http, $location, Artists) {
 
-        var artist = $location.search()['artist'];
+
+        var artist = $routeParams.artistName;
 
         $scope.showDetails = false;
         $scope.queryArtist = artist;
 
         $scope.artists = Artists.query();
-
-
-
-            angular.forEach($scope.artists, function (item) {
-                var artistName = item.artistName;
-                if (artistName === artist) {
-                    $scope.artistimage = 'images/artists/' + item.artistImage;
-                }
-            });
-
-
 
 
         $scope.title = artist;

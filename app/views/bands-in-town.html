@@ -3,11 +3,14 @@
 
 <div ng-controller="TourDates"
      class="wrapper-bit">
-    <div class="main-banner">
-        <img ng-src="{{artistimage}}"
+    <div class="main-banner" ng-repeat="items in artists">
+
+        <div ng-if="items.artistName == queryArtist">
+        <img ng-src="images/artists/{{items.artistImage}}"
              class="img-responsive"/>
 
-        <h1 class="artist">{{title}}</h1>
+        <h1 class="artist">{{items.artistName}}</h1>
+        </div>
     </div>
     <ul class="band-schedule">
         <li ng-repeat="items in schedule |  limitTo:quantity"

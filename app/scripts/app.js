@@ -9,7 +9,7 @@ angular.module('ontourApp', [
     'ontourApp.directives',
     'ontourApp.controllers'
 ]).
-    config(['$routeProvider', function($routeProvider, $locationProvider) {
+    config(['$routeProvider', function($routeProvider) {
         $routeProvider.when('/home', {templateUrl: 'views/home.html', controller: 'Home'});
         $routeProvider.when('/contact', {templateUrl: 'views/contact.html', controller: 'Contact'});
         $routeProvider.when('/find-shows', {templateUrl: 'views/find-shows.html', controller: 'FindShows'});
